@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any kind of BioImage Analysis problems, machine and deep learning validation for reproducibility and in general on any kind of framework for reproducible data science.
 - ✨ Check out my YOLOv5 based object detection and counting project focused on scientific images: [SciCount](https://github.com/martinschatz-cz/SciCount)
 
-If you are interesting I am starting small newsletter about BiA tools and events in Czech, you can join up [here](https://dashboard.mailerlite.com/forms/296905/77993953445544962/share).
+If you are interested in BioImage Analysis I am starting small newsletter about BiA tools and events in Czech. You can join up [here](https://dashboard.mailerlite.com/forms/296905/77993953445544962/share).
 
 <!---
 - 📫 How to reach me ...
